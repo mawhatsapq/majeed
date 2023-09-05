@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA v9.9.9F",
-      "code": 79,
-      "url": "https://bit.ly/DELTAv999F",
-      "changelog": " - Base DELTA YOWA v9.9.9 - Custom Icons - Improvements - Bugs Fixed"
+      "version": "DELTA v9.84",
+      "code": 74,
+      "url": "https://bit.ly/DELTA984",
+      "changelog": " - FMWA v9.84"
     }
   ]
 }
